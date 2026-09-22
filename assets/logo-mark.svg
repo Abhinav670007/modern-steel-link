@@ -1,0 +1,35 @@
+<svg viewBox="0 0 240 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Modern Steel Link Industry crest logo">
+  <defs>
+    <linearGradient id="navyFace" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a4d76"/>
+      <stop offset="100%" stop-color="#0d1a26"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer crest silhouette -->
+  <path d="M120 20
+           Q140 42 156 50
+           L188 42
+           Q178 66 172 84
+           Q192 100 200 122
+           Q178 132 162 140
+           Q145 190 120 244
+           Q95 190 78 140
+           Q62 132 40 122
+           Q48 100 68 84
+           Q62 66 52 42
+           L84 50
+           Q100 42 120 20 Z"
+        fill="url(#navyFace)" stroke="#0a1c33" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- facet highlights for a cut-gem look -->
+  <path d="M120 20 Q140 42 156 50 L120 92 L84 50 Q100 42 120 20 Z" fill="#3f6690" opacity="0.55"/>
+  <path d="M40 122 Q48 100 68 84 L78 140 Q62 132 40 122 Z" fill="#081420" opacity="0.4"/>
+  <path d="M200 122 Q192 100 172 84 L162 140 Q178 132 200 122 Z" fill="#081420" opacity="0.4"/>
+  <path d="M78 140 L120 92 L162 140 Q145 190 120 244 Q95 190 78 140 Z" fill="#1f3852" opacity="0.6"/>
+
+  <!-- monogram -->
+  <text x="120" y="152" text-anchor="middle"
+        font-family="'Oswald','Arial Narrow',Arial,sans-serif" font-weight="600"
+        font-size="56" letter-spacing="1" fill="#f2f4ee">MSL</text>
+</svg>
